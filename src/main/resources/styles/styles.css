@@ -1,12 +1,12 @@
 /* Estilo general para el fondo */
 .root {
-    -fx-background-color: #01d5ff;
+    -fx-background-color: #1b6a7a;
     -fx-font-family: "Arial", sans-serif;
 }
 
 /* Botones */
 .button {
-    -fx-background-color: #4CAF50;
+    -fx-background-color: #6918ac;
     -fx-text-fill: white;
     -fx-font-size: 14px;
     -fx-padding: 10 20;
@@ -16,11 +16,11 @@
 }
 
 .button:hover {
-    -fx-background-color: #45a049;
+    -fx-background-color: #6918ac;
 }
 
 .button:pressed {
-    -fx-background-color: #3e8e41;
+    -fx-background-color: #6918ac;
 }
 
 /* Textos generales */
@@ -45,7 +45,7 @@
 }
 
 .text-field:focused {
-    -fx-border-color: #4CAF50;
+    -fx-border-color: #6918ac;
 }
 
 /* Etiquetas de error */
@@ -57,7 +57,7 @@
 
 /* Etiquetas de éxito */
 .success-text {
-    -fx-fill: green;
+    -fx-fill: #6918ac;
     -fx-font-size: 14px;
     -fx-font-weight: bold;
 }
