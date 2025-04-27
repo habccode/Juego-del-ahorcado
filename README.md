@@ -1,6 +1,6 @@
 # Game-ahorcado
 ## Lógica de Negocio del Juego del Ahorcado:
-1. Autenticación de Usuario:
+1. <b>Autenticación de Usuario:</b>
 Inicio de sesión: El usuario se autentica en la aplicación.
 Verificación: Si el usuario existe en la base de datos (BBDD), se permite el acceso y se carga su perfil con información sobre su progreso, incluyendo su nivel de dificultad alcanzado, por defecto al inicio (FACIL).
 Registro de usuario: Si el usuario no existe, se puede permitir crear una cuenta nueva.
