@@ -68,4 +68,3 @@ Es recomendable tener un sistema de medallas o logros para premiar al jugador po
 Temporizador: Un temporizador puede añadirse para hacer que el jugador tenga un tiempo limitado por intento o por palabra.
 Pistas: El juego podría permitir al jugador obtener una pista (revelar una letra de la palabra) por un costo en puntos.
 Otras aportaciones: Se pueden introducir otras aportaciones que se consideren interesantes, por ejemplo permiter añadir entradas de palabras que no existan en la base de datos, y asignarle un grado de dificultad en función de su tamaño.
-````
