@@ -56,7 +56,6 @@ public abstract class AbstractController {
 
     /**
      * setea al usuario actual
-     * 
      * @param usuario a ser el actual
      */
     public void setUsuarioActual(UsuarioEntity usuario){

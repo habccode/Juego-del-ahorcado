@@ -1,11 +1,10 @@
 package es.habccode.juego.ahorcado.model.servicios;
+import es.habccode.juego.ahorcado.model.UsuarioEntity;
+import es.habccode.juego.ahorcado.model.abstractas.Conexion;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
-
-import es.habccode.juego.ahorcado.model.UsuarioEntity;
-import es.habccode.juego.ahorcado.model.abstractas.Conexion;
 
 /**
  * @author habccode
